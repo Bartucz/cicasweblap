@@ -1,3 +1,0 @@
-git:
-https://bgeri8791.github.io/cicasweblap/
-https://github.com/Bgeri8791/cicasweblap.git 
